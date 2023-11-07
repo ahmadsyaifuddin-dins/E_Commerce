@@ -9,3 +9,5 @@ table prefix e_commerce_
 
 ## Tampilan Halaman Admin
 <img src="https://github.com/ahmadsyaifuddin-99/E_Commerce/assets/77381720/c41ff132-74ba-4a84-a71d-20a506cc487b">
+
+<p>Pada Halaman Admin masih tidak ada untuk Report (Laporan)</p>
