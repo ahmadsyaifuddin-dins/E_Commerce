@@ -94,6 +94,7 @@ Donate: https://www.paypal.com/paypalme/habibieamrullah
 			"Order" => "Pesanan",
 			"Orders" => "Pesanan masuk",
 			"Orders" => "Pesanan",
+			"Report" => "Laporan",
 			"Picture upload is OK" => "Unggah Gambar OK",
 			"Pictures" => "Gambar",
 			"Post successfully updated." => "Pos berhasil diperbarui",
