@@ -104,9 +104,6 @@ include("uilang.php");
 							<a href="<?php echo $baseurl ?>admin.php?orders">
 								<div class="adminleftbaritem"><i class="fa fa-file-text" style="width: 30px;"></i> <?php echo uilang("Orders") ?></div>
 							</a>
-							<a href="<?php echo $baseurl ?>admin.php?report">
-								<div class="adminleftbaritem"><i class="fa fa-file-excel-o" style="width: 30px;"></i> <?php echo uilang("Report") ?></div>
-							</a>
 							<a href="<?php echo $baseurl ?>admin.php?settings">
 								<div class="adminleftbaritem"><i class="fa fa-cogs" style="width: 30px;"></i> <?php echo uilang("Settings") ?></div>
 							</a>
