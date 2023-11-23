@@ -93,7 +93,7 @@ include("uilang.php");
 								<div class="adminleftbaritem"><i class="fa fa-home" style="width: 30px;"></i> <?php echo uilang("Home") ?></div>
 							</a>
 							<a href="<?php echo $baseurl ?>admin.php?newpost">
-								<div class="adminleftbaritem"><i class="fa fa-plus" style="width: 30px;"></i> <?php echo uilang("Add Product") ?></div>
+								<div class="adminleftbaritem"><i class="fa fa-cart-plus" style="width: 30px;"></i> <?php echo uilang("Add Product") ?></div>
 							</a>
 							<a href="<?php echo $baseurl ?>admin.php?pictures">
 								<div class="adminleftbaritem"><i class="fa fa-image" style="width: 30px;"></i> <?php echo uilang("Pictures") ?></div>
