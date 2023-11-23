@@ -101,6 +101,9 @@ include("uilang.php");
 							<a href="<?php echo $baseurl ?>admin.php?categories">
 								<div class="adminleftbaritem"><i class="fa fa-tag" style="width: 30px;"></i> <?php echo uilang("Categories") ?></div>
 							</a>
+							<a href="excel.php">
+								<div class="adminleftbaritem"><i class="fa fa-file-excel-o" style="width: 30px;"></i> <?php echo uilang("Report") ?></div>
+							</a>
 							<a href="<?php echo $baseurl ?>admin.php?orders">
 								<div class="adminleftbaritem"><i class="fa fa-file-text" style="width: 30px;"></i> <?php echo uilang("Orders") ?></div>
 							</a>
