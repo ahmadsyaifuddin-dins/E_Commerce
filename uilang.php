@@ -72,7 +72,7 @@ Donate:
 			"Logout" => "Keluar",
 			"MORE" => "LIHAT",
 			"Main Color" => "Warna Utama",
-			"Mobile" => "No WhatsApp",
+			"Mobile" => "No. WhatsApp",
 			"More in" => "Lainnya di",
 			"More picture(s) has been added." => "Gambar tambahan sudah diunggah.",
 			"More" => "Lebih",
